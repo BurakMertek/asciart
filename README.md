@@ -20,7 +20,7 @@ sudo apt install build-essential imagemagick netpbm
 
 ```bash
 git clone https://github.com/BurakMertek/asciart.git
-cd <repository-directory>
+cd asciart
 ```
 
 ### Step 2: Convert your image to PGM format
