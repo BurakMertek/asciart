@@ -50,11 +50,6 @@ Run the program by providing your converted PGM file:
 
 Your ASCII art will be printed directly to the terminal.
 
-## File Structure
-
-- `ascii_art.c`: C source code for generating ASCII art from PGM files.
-- `.gitignore`: Git configuration file to exclude unnecessary files.
-
 ## Example Usage
 
 ```bash
