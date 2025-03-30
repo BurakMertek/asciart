@@ -19,7 +19,7 @@ sudo apt install build-essential imagemagick netpbm
 ### Step 1: Clone this repository
 
 ```bash
-git clone [<repository-url>](https://github.com/BurakMertek/asciart.git)
+git clone https://github.com/BurakMertek/asciart.git
 cd <repository-directory>
 ```
 
